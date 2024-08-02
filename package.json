@@ -1,6 +1,6 @@
 {
   "name": "file-structure-tree",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "This Node.js script is designed to print a visual representation of the directory structure of the current directory",
   "main": "index.js",
   "scripts": {

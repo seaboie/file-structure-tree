@@ -8,6 +8,8 @@ import chalk from 'chalk';
 const extensionColors = {
     '.js': chalk.yellowBright,
     '.ts': chalk.gray,
+    '.html': chalk.gray,
+    '.go': chalk.gray,
     '.css': chalk.greenBright,
     '.json': chalk.cyan,
     '.md': chalk.green,
