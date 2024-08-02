@@ -1,6 +1,6 @@
 {
   "name": "file-structure-tree",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "This Node.js script is designed to print a visual representation of the directory structure of the current directory",
   "main": "index.js",
   "scripts": {
@@ -13,6 +13,14 @@
   "homepage": "https://github.com/seaboie/file-structure-tree",
   "author": "Kritbovorn Taweeyossak",
   "license": "ISC",
-  "keywords": ["file", "tree", "structure tree", "directory tree" , "file tree"],
-  "dependencies": {}
+  "keywords": [
+    "file",
+    "tree",
+    "structure tree",
+    "directory tree",
+    "file tree"
+  ],
+  "dependencies": {
+    "chalk": "^5.3.0"
+  }
 }
